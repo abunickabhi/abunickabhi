@@ -1,25 +1,10 @@
-### Hi there , I am Abhijeet 👋.
-
-<!--
-**abunickabhi/abunickabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there , I am Abhijeet 👋
 
 - 🔭 I’m currently working on FPGAs and instrumentation.
-- 🌱 I’m currently learning GRB physics and nuclear particle simulations.
-- 👯 I’m looking to collaborate on astro project and big cube solver project.
+- 🌱 I’m currently learning particle physics (vector boson scattering) and nuclear particle simulations.
+- 👯 I’m looking to collaborate on physics projects and big cube solver project.
 - 🤔 I’m looking for help with astronomy, astro data processing and 5-style automation.
-- 💬 Ask me about Rubik's Cube, Verilog, Python, Chess, Go, Shogi.
-- 📫 How to reach me: LinkedIn, email - abhijeet.ghodgaonkar@gmail.com.
-- 😄 Pronouns: Yo, Abhiram, Abhiansh
-- ⚡ Fun fact: I have visited only one landlocked country.
+- 💬 Ask me about Rubik's Cube, C++, Python, Chess, Go, Shogi.
+- 📫 How to reach me: LinkedIn, email
+- 😄 Nicknames: Abhi, Yo, Abhiram, Abhiansh
+- ⚡ Fun fact: I have visited only one landlocked country. I am a 15kyu Go player.
